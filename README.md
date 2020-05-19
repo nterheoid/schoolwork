@@ -1,2 +1,2 @@
 # schoolwork
-hahaha
+from scratch
